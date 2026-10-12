@@ -5,14 +5,17 @@
 I'm a cybersecurity graduate with an AAS in Cybersecurity and CompTIA Sec+ certification, I am interested in the intersection of cybersecurity, artificial intelligence, and technical writing.
 
 I'm particularly interested in security operations, digital forensics, and how AI can be integrated into cybersecurity workflows. I'm equally curious about AI beyond security: how language models work, what they're capable of, and how we can build useful things with them.
+I like to understand what's happening beneath the interface.
 
-I learn best by experimenting, building projects, troubleshooting what doesn't work, and documenting what I discover along the way.
----
+That usually means building something, testing it, discovering that reality has a different opinion about how it should work, and then figuring out why.
+
+The troubleshooting is often where the real learning happens.
+Currently building, experimenting, documenting, and looking for opportunities to turn that work into a career.
 
 ## What I've Been Building
 
 ### Laconia Cybersecurity Lab
-*A little piece of The Expanse, running on VMware.*
+*An enterprise-style virtual lab for exploring network infrastructure, system administration, and cybersecurity operations.*
 
 My virtual enterprise environment, built to explore networking, Active Directory, Windows Server administration, and security monitoring with Splunk.
 
@@ -21,7 +24,7 @@ It's where I experiment with infrastructure, investigate problems, and develop p
 [Explore Laconia →](https://github.com/BiancaSe/Laconia-Cybersecurity-Lab)
 
 ### SÝN — AI Security Agent
-*Giving an AI agent access to a virtual world, one carefully defined tool at a time.*
+*Developing a locally hosted AI agent to explore Active Directory automation and the integration of artificial intelligence into cybersecurity workflows.*
 
 A locally hosted AI agent built with Python, Ollama, and Flask. SÝN connects to my Active Directory lab through LDAP, allowing me to experiment with natural-language interaction, automation, and AI integration in cybersecurity.
 
@@ -64,6 +67,10 @@ Security operations, incident investigation, threat detection, Active Directory 
 **Artificial Intelligence**
 
 Large language models, local AI, intelligent agents, automation, and especially the possibilities of integrating AI into cybersecurity tools and workflows.
+
+**Social Engineering & Human Behavior**
+
+I'm particularly fascinated by the human side of cybersecurity: how trust, persuasion, psychology, and human behavior can be exploited to bypass even sophisticated technical defenses. I'm interested in understanding the mechanisms behind social engineering attacks, why they work, and how that knowledge can contribute to better security awareness, detection, and defense.
 
 **Technical Writing**
 
